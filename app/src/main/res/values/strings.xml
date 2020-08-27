@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Launcher Android</string>
+    <string name="list_applications">Все приложения</string>
+    <string name="add_application">Добавить приложение</string>
+    <string name="featured_apps">Избранные приложения</string>
+    <string name="all_installed_applications">Все установленные приложения</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">Ok</string>
+    <string name="todo">TODO</string>
+    <string name="clear_list">Очистить список</string>
+</resources>
